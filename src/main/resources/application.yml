@@ -1,0 +1,5 @@
+spring:
+  security:
+    user:
+      name: highload
+      password: myhighload
